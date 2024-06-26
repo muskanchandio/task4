@@ -1,0 +1,54 @@
+.a1 {
+  font-family: "Kanit", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.img {
+  background-image: url(gettyimages-1389547737-2048x2048.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  background-position: center;
+  border-radius: 35px;
+}
+.b1 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: white;
+  border-radius: 20px;
+}
+.a2 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.btn2 {
+  border-radius: 25px;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.box1 {
+  background-color: rgb(255, 188, 188);
+  border-radius: 30px;
+}
+.btn3 {
+  border-radius: 17px;
+}
+.box2 {
+  background-image: url(pexels-photo-6620860.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px;
+  border-radius: 25px;
+}
+
+.heading {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
